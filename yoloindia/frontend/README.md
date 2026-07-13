@@ -1,4 +1,4 @@
-# TourMyIndia 🏞️
+# yoloindia 🏞️
 
 A modern, fully-responsive travel and tour booking website built with **React + Vite**, **Tailwind CSS**, **Framer Motion**, and **Swiper.js**.
 
