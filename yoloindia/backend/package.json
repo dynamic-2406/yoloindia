@@ -1,0 +1,17 @@
+{
+  "name": "yoloindia-backend",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node src/server.js",
+    "start": "node src/server.js",
+    "check": "node --check src/server.js"
+  },
+  "dependencies": {
+    "resend": "^6.17.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
